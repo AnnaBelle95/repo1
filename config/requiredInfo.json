@@ -8,7 +8,7 @@
   "icons": [
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
-    {"icon": "social-twitter", "link": "/twitter"},
+    {"icon": "mail", "link": "/twitter"},
     {"icon": "social-linkedin", "link": "/corgi"},
     {"icon": "social-reddit", "link": "https://www.reddit.com/user/AnnaMaric95/"}
   ],
