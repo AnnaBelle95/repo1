@@ -9,8 +9,8 @@
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
     {"icon": "social-twitter", "link": "/twitter"},
-    {"icon": "paw", "link": "/corgi"},
-    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"}
+    {"icon": "social-linkedin", "link": "/corgi"},
+    {"icon": "social-reddit", "link": "https://www.reddit.com/user/AnnaMaric95/"}
   ],
   "projects": [
     {"title":"Dogecoin Ticker", "link":"/dogecointicker"},
