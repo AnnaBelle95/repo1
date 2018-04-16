@@ -6,11 +6,12 @@
   "description": "Hey I'm Nur Afiqah. Thanks for visiting my personal site!",
   "resumeFile": "https://docs.google.com/document/d/19vTovKnlE4w088mvyDfDRghhrlhDE6btAG15FIxhkNw/edit?usp=sharing",
   "icons": [
-    {"icon": "page", "link": "/resume"},
+    {"icon": "page-doc", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
     {"icon": "mail", "link": "/email"},
     {"icon": "social-linkedin", "link": "/linkedin"},
-    {"icon": "social-reddit", "link": "https://www.reddit.com/user/AnnaMaric95/"}
+    {"icon": "social-reddit", "link": "https://www.reddit.com/user/AnnaMaric95/"},
+	{"icon": "page-search", "link": "/search"}
   ],
   "projects": [
     {"title":"Pinterest", "link":"/pinterest"},
