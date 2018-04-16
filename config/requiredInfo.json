@@ -9,11 +9,11 @@
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
     {"icon": "mail", "link": "/email"},
-    {"icon": "social-linkedin", "link": "/corgi"},
+    {"icon": "social-linkedin", "link": "/linkedin"},
     {"icon": "social-reddit", "link": "https://www.reddit.com/user/AnnaMaric95/"}
   ],
   "projects": [
-    {"title":"Dogecoin Ticker", "link":"/dogecointicker"},
+    {"title":"Pinterest", "link":"/pinterest"},
     {"title":"JSON Configurable Site", "link":"/repo"}
   ]
 }
