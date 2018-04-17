@@ -11,7 +11,6 @@
 		<script src="js/zoom.min.js"></script>
 		<script src="js/transition.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		<script src="js/install_ready_callback.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 		<noscript>
 	        <link rel="stylesheet" type="text/css" href="css/foundation-icons.css" />
@@ -42,5 +41,6 @@
 		</div>
 		<footer id="footer"></footer>
 		<div id="bg"></div>
+		<script src="js/install_ready_callback.js"></script>
 	</body>
 </html>
