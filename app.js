@@ -57,3 +57,5 @@ console.log('Server started on http://localhost:8080');
 app.listen(process.env.PORT || 8080);
 
 module.exports = app;
+
+<script src="https://widget.flowxo.com/embed.js" data-fxo-widget="eyJ0aGVtZSI6IiNmMzdhNzEiLCJ0ZWxlZ3JhbSI6eyJib3RVc2VybmFtZSI6IkZsaWdodEJvdCJ9LCJ3ZWxjb21lVGV4dCI6IldlbGNvbWUgdG8gbXkgQ2hhdEJvdCEifQ==" async defer></script>
