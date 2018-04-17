@@ -41,6 +41,6 @@
 		</div>
 		<footer id="footer"></footer>
 		<div id="bg"></div>
-		<script src="js/install_ready_callback.js"></script>
+		<script src="js/set_config_usage.js"></script>
 	</body>
 </html>
