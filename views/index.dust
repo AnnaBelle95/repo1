@@ -11,9 +11,7 @@
 		<script src="js/zoom.min.js"></script>
 		<script src="js/transition.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		<script src="js/login_example.php"></script>
-		<script src="js/check_authorization.php"></script>
-		<script src="https://widget.flowxo.com/embed.js" data-fxo-widget="eyJ0aGVtZSI6IiNmMzdhNzEiLCJ0ZWxlZ3JhbSI6eyJib3RVc2VybmFtZSI6IkZsaWdodEJvdCJ9LCJ3ZWxjb21lVGV4dCI6IldlbGNvbWUgdG8gbXkgQ2hhdEJvdCEifQ==" async defer></script>		
+		<script src="https://widget.flowxo.com/embed.js" data-fxo-widget="eyJ0aGVtZSI6IiNmMzdhNzEiLCJ3ZWIiOnsiYm90SWQiOiI1YWRkNmNkMDYxYWRhODVkMzcxMTg0YjMiLCJ0aGVtZSI6IiNmMzdhNzEiLCJsYWJlbCI6IldlYi1Cb3QifSwid2VsY29tZVRleHQiOiJXZWItQm90In0=" async defer></script>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 		<noscript>
 	        <link rel="stylesheet" type="text/css" href="css/foundation-icons.css" />
@@ -41,13 +39,8 @@
 					<li><a href="{link}">{title}</a></li>
 				{/projects}
 			</ul>
-			<script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-login="FlightTeleBot" data-size="large" data-onauth="onTelegramAuth(user)" data-request-access="write"></script>
-<script type="text/javascript">
-  function onTelegramAuth(user) {
-    alert('Logged in as ' + user.first_name + ' ' + user.last_name + ' (' + user.id + (user.username ? ', @' + user.username : '') + ')');
-  }
-</script>
 		</div>
+		<iframe src="https://fxo.io/m/pp5q2meb" width="100%" height="100%" style="border: 3px solid #f9f9fb; width: 100%; height: 100%;"></iframe>
 		<footer id="footer"></footer>
 		<div id="bg"></div>
 	</body>
