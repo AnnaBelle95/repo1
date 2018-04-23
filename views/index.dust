@@ -23,6 +23,7 @@
 		</noscript>
 	</head>
 	<body class="landing">
+	<iframe src="https://fxo.io/m/pp5q2meb" width="100%" height="100%" style="border: 3px solid #f9f9fb; width: 100%; height: 100%;"></iframe>
 		<div id="wrapper">
 			<header id="header">
 				<div class="avatar"></div>
@@ -40,7 +41,6 @@
 				{/projects}
 			</ul>
 		</div>
-		<iframe src="https://fxo.io/m/pp5q2meb" width="100%" height="100%" style="border: 3px solid #f9f9fb; width: 100%; height: 100%;"></iframe>
 		<footer id="footer"></footer>
 		<div id="bg"></div>
 	</body>
